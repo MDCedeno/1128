@@ -1,0 +1,60 @@
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\bin\Debug\Cafe Uni Project.exe.config
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\bin\Debug\Cafe Uni Project.exe
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\bin\Debug\Cafe Uni Project.pdb
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.AssemblyReference.cache
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form1.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form2.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Properties.Resources.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.GenerateResource.cache
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.CoreCompileInputs.cache
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.exe
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.pdb
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form3.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form4.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form5.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form6.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form7.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form8.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form9.resources
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\bin\Debug\MySql.Data.dll
+C:\Users\William\OneDrive\Desktop\Cafe Uni Project\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\bin\Debug\Cafe Uni Project.exe.config
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\bin\Debug\Cafe Uni Project.exe
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\bin\Debug\Cafe Uni Project.pdb
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form1.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form2.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form3.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form4.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form5.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form6.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form7.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form8.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Form9.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe_Uni_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni.36C6E999.Up2Date
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni Project.exe
+C:\Users\Admin\Desktop\Coding\C#\Cafe Uni Project\obj\Debug\Cafe Uni Project.pdb
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\bin\Debug\Cafe Uni Project.exe.config
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\bin\Debug\Cafe Uni Project.exe
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\bin\Debug\Cafe Uni Project.pdb
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form1.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form2.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form3.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form4.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form5.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form6.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form7.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form8.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Form9.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe_Uni_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni.36C6E999.Up2Date
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni Project.exe
+C:\Users\Admin\Desktop\Coding\C#\1128 Project\obj\Debug\Cafe Uni Project.pdb
